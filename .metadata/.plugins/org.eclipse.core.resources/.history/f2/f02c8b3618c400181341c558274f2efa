@@ -1,0 +1,13 @@
+package com.rukman.verizon;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Verizongrocery {
+
+	public static void main(String[] args) {
+		SpringApplication.run(Verizongrocery.class, args);
+	}
+
+}
